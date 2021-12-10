@@ -22,7 +22,7 @@ Sample Input File
 
 Represents the graph
 
-![ Sample Graph Picture]()
+![ Sample Graph Picture](https://github.com/Abhishek-Aditya-bs/Dijkistra-Algorithm-From-Scratch/blob/main/Sample-Graph-picture.png)
 
 Sample Output
 
